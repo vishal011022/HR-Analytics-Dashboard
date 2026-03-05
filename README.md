@@ -100,5 +100,5 @@ The dashboard supports the following slicer/filter controls:
 The **HR department** has a disproportionately high attrition rate (44%)
 
 ## Screenshot / Demos
-Show what the dasboard look like - 
+Show what the dasboard look like - https://github.com/vishal011022/HR-Analytics-Dashboard/blob/main/HR%20Analytics%20Dashboard.png
 
